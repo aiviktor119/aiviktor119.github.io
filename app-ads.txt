@@ -173,3 +173,5 @@ conversantmedia.com, 100269, RESELLER, 03113cd04947736d
 spinx.biz, 1373698890, RESELLER
 rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 orbrx.ai, 8000869124, RESELLER
+yandex.com, 108187325, DIRECT
+yango-ads.com, 108187325, DIRECT
